@@ -1,3 +1,4 @@
+#输出信息到控制台
 print ("hello world!")
 print ("Hello Again!")
 print ("I like typing this")
