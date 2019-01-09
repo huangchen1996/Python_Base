@@ -26,3 +26,15 @@ print("两个数是相等还是其中有一个更大?",5 >= -2)
 
 
 print("两个数是相等还是其中一个数小一些?",5 <= -2)
+
+#   +plus加号
+#   -minus减号
+#   /slash斜杆
+#   *asterisk星号
+#   %percent百分号
+#   <less-than 小于号
+#   >greater-than大于号
+#   <= less-than-equals 小于等于号
+#   >= greater-than-equals大于等于号
+
+
